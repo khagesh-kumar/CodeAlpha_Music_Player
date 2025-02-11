@@ -2,6 +2,10 @@
 
 A sleek and modern **Telugu Music Player** built using **HTML, CSS, and JavaScript**. This project features a responsive music player with playlist management, song search, and smooth UI interactions.
 
+## 📸 Screenshots
+
+![Screenshot (325)](https://github.com/user-attachments/assets/6949e85d-a46e-4a9f-995d-354bef16f3b0)
+
 ## 🚀 Features
 
 - 🎶 **Play, Pause, Next, Previous** controls
@@ -11,10 +15,6 @@ A sleek and modern **Telugu Music Player** built using **HTML, CSS, and JavaScri
 - ⏳ **Real-time Progress Bar**
 - 🔍 **Search Songs**
 - 🎨 **Modern UI with Dark Theme**
-
-## 📸 Screenshots
-
-![Screenshot (325)](https://github.com/user-attachments/assets/6949e85d-a46e-4a9f-995d-354bef16f3b0)
 
 
 ## 🛠️ Tech Stack
