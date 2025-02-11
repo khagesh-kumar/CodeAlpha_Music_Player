@@ -1,55 +1,43 @@
-Telugu Music Player 🎵
+# 🎵 Telugu Music Player
 
-A sleek and modern web-based music player designed for Telugu music lovers. This project provides an intuitive user interface, playlist management, and smooth audio playback.
+A sleek and modern **Telugu Music Player** built using **HTML, CSS, and JavaScript**. This project features a responsive music player with playlist management, song search, and smooth UI interactions.
 
-Features 🚀
+## 🚀 Features
 
-🎶 Play, pause, next, and previous track controls
+- 🎶 **Play, Pause, Next, Previous** controls
+- 🔀 **Shuffle & Repeat** functionality
+- 📜 **Dynamic Playlist**
+- 🔊 **Volume Control**
+- ⏳ **Real-time Progress Bar**
+- 🔍 **Search Songs**
+- 🎨 **Modern UI with Dark Theme**
 
-🔄 Shuffle and repeat options
+## 📸 Screenshots
 
-🔊 Volume control with smooth adjustments
+![Music Player Screenshot](https://i.ytimg.com/vi/5UT2XkKpJ2M/maxresdefault.jpg)
 
-🎨 Stylish UI with dark-themed design
+## 🛠️ Tech Stack
 
-📜 Playlist management with search functionality
+- **Frontend**: HTML, CSS, JavaScript
+- **Icons**: FontAwesome
+- **Design**: Responsive UI with modern styling
 
-⏳ Progress bar with time tracking
+## 📂 Project Structure
 
-Tech Stack 🛠️
+📂 CodeAlpha_Music-Player
+├── 📜 index.html        # Main HTML file
+├── 📂 assets            # Asset directory
+│   ├── 📂 css           # CSS files
+│   │   ├── style.css   # Main stylesheet
+│   ├── 📂 js            # JavaScript files
+│   │   ├── script.js     # Main javascript
+│   ├── 📂 music        # music directory
+├── 📂 images            # images directory
+├── 📜 README.md         # Project documentation
 
-HTML5
+👨‍💻 Author
+Bhadrachalam Khagesh Kumar
+🔗 [LinkedIn](https://www.linkedin.com/in/b-khagesh-kumar/) | 🐙 [GitHub](https://github.com/khagesh-kumar)
 
-CSS3
-
-JavaScript
-
-FontAwesome Icons
-
-Installation & Setup 💻
-
-Clone the repository:
-
-git clone https://github.com/khagesh-kumar/CodeAlpha_Music_Player.git
-
-Navigate to the project folder:
-
-cd CodeAlpha_Music_Player
-
-Open index.html in your browser and enjoy!
-
-Screenshots 📸
-
-
-
-Contributing 🤝
-
-Feel free to fork this project and make improvements! Pull requests are welcome.
-
-Author ✍️
-
-Bhadrachalam Khagesh Kumar🔗 GitHub🔗 LinkedIn
-
-License 📜
-
-This project is licensed under the MIT License.
+⭐ Show Your Support!
+If you like this project, don't forget to star 🌟 the repo and contribute!
