@@ -26,19 +26,19 @@ A sleek and modern **Telugu Music Player** built using **HTML, CSS, and JavaScri
 ## 📂 Project Structure
 
 📂 CodeAlpha_Music-Player  
-├── 📜 index.html              # Main HTML file  
-├── 📂 assets                  # Asset directory  
-│   ├── 📂 css                 # CSS files  
-│   │   ├── style.css          # Main stylesheet  
-│   ├── 📂 js                  # JavaScript files  
-│   │   ├── script.js          # Main JavaScript file  
-│   ├── 📂 music               # Music directory  
-├── 📂 images                  # Images directory  
-├── 📜 README.md               # Project documentation  
+├── 📜 index.html             
+├── 📂 assets                  
+│   ├── 📂 css                
+│   │   ├── style.css         
+│   ├── 📂 js                  
+│   │   ├── script.js          
+│   ├── 📂 music               
+├── 📂 images                  
+├── 📜 README.md              
 
 
-👨‍💻 Author
-Bhadrachalam Khagesh Kumar
+## 👨‍💻 Author Bhadrachalam Khagesh Kumar
+
 🔗 [LinkedIn](https://www.linkedin.com/in/b-khagesh-kumar/) | 🐙 [GitHub](https://github.com/khagesh-kumar)
 
 ⭐ Show Your Support!
