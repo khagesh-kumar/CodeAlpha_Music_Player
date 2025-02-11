@@ -28,11 +28,11 @@ A sleek and modern **Telugu Music Player** built using **HTML, CSS, and JavaScri
 📂 CodeAlpha_Music-Player  
 ├── 📜 index.html             
 ├── 📂 assets                  
-│   ├── 📂 css                
-│    │   ├── style.css         
-│   ├── 📂 js                  
-│    │   ├── script.js          
-│   ├── 📂 music               
+ │   ├── 📂 css                
+ │    │   ├── style.css         
+ │   ├── 📂 js                  
+ │    │   ├── script.js          
+ │   ├── 📂 music               
  ├── 📂 images                  
 ├── 📜 README.md              
 
