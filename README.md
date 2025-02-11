@@ -41,5 +41,6 @@ A sleek and modern **Telugu Music Player** built using **HTML, CSS, and JavaScri
 
 🔗 [LinkedIn](https://www.linkedin.com/in/b-khagesh-kumar/) | 🐙 [GitHub](https://github.com/khagesh-kumar)
 
-⭐ Show Your Support!
+##⭐ Show Your Support!
+
 If you like this project, don't forget to star 🌟 the repo and contribute!
