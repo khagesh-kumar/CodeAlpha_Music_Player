@@ -1,4 +1,4 @@
-# 🎵 Telugu Music Player
+# 🎵 It's a Telugu Music Player
 
 A sleek and modern **Telugu Music Player** built using **HTML, CSS, and JavaScript**. This project features a responsive music player with playlist management, song search, and smooth UI interactions.
 
