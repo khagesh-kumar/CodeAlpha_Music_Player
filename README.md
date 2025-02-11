@@ -14,7 +14,8 @@ A sleek and modern **Telugu Music Player** built using **HTML, CSS, and JavaScri
 
 ## 📸 Screenshots
 
-![Music Player Screenshot](https://i.ytimg.com/vi/5UT2XkKpJ2M/maxresdefault.jpg)
+![Uploading Screenshot (325).png…]()
+
 
 ## 🛠️ Tech Stack
 
@@ -24,16 +25,17 @@ A sleek and modern **Telugu Music Player** built using **HTML, CSS, and JavaScri
 
 ## 📂 Project Structure
 
-📂 CodeAlpha_Music-Player
-├── 📜 index.html        # Main HTML file
-├── 📂 assets            # Asset directory
-│   ├── 📂 css           # CSS files
-│   │   ├── style.css   # Main stylesheet
-│   ├── 📂 js            # JavaScript files
-│   │   ├── script.js     # Main javascript
-│   ├── 📂 music        # music directory
-├── 📂 images            # images directory
-├── 📜 README.md         # Project documentation
+📂 CodeAlpha_Music-Player  
+├── 📜 index.html              # Main HTML file  
+├── 📂 assets                  # Asset directory  
+│   ├── 📂 css                 # CSS files  
+│   │   ├── style.css          # Main stylesheet  
+│   ├── 📂 js                  # JavaScript files  
+│   │   ├── script.js          # Main JavaScript file  
+│   ├── 📂 music               # Music directory  
+├── 📂 images                  # Images directory  
+├── 📜 README.md               # Project documentation  
+
 
 👨‍💻 Author
 Bhadrachalam Khagesh Kumar
