@@ -14,7 +14,10 @@ A sleek and modern **Telugu Music Player** built using **HTML, CSS, and JavaScri
 
 ## 📸 Screenshots
 
-![Uploading Screenshot (325).png…]()
+![Screenshot (325)](https://github.com/user-attachments/assets/6949e85d-a46e-4a9f-995d-354bef16f3b0)
+![Screenshot (325)](https://github.com/user-attachments/assets/6949e85d-a46e-4a9f-995d-354bef16f3b0)
+
+
 
 
 ## 🛠️ Tech Stack
