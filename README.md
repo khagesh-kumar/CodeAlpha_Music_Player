@@ -29,11 +29,11 @@ A sleek and modern **Telugu Music Player** built using **HTML, CSS, and JavaScri
 ├── 📜 index.html             
 ├── 📂 assets                  
 │   ├── 📂 css                
-│   │   ├── style.css         
+│    │   ├── style.css         
 │   ├── 📂 js                  
-│   │   ├── script.js          
+│    │   ├── script.js          
 │   ├── 📂 music               
-├── 📂 images                  
+ ├── 📂 images                  
 ├── 📜 README.md              
 
 
